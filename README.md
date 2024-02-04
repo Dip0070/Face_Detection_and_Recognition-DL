@@ -1,26 +1,30 @@
-# Image Recognition
+# Face Detection and Recognition by OpenCV
 ## Overview
-Welcome to the Image Recognition project! This repository is dedicated to recognizing images using a model built with Keras, convolutional layers (Conv2D), max-pooling layers (MaxPool2D), flattening layers (Flatten), and dense layers. The model is trained using an Image Data Generator with various hyperparameters to achieve accurate image recognition.
+Welcome to the Face Detection and Recognition project using OpenCV! This repository focuses on detecting and recognizing faces using OpenCV. The project utilizes an image data generator with various hyperparameters and employs Keras with Conv2D, MaxPool2D, Flatten, and Dense layers to create a model for accurate face recognition.
 
 ## Table of Contents
 1. Introduction
 2. Image Data Generator
 3. Model Architecture
-4. Training
-5. Skills
-5. Contributing
-6. License
+4. Face Detection
+5. Face Recognition
+6. Skills
+7. Contributing
+8. License
 ## Introduction
-The Image Recognition project focuses on recognizing images using a deep learning model built with Keras. The model architecture includes convolutional layers, max-pooling layers, flattening layers, and dense layers for accurate image classification.
+The Face Detection and Recognition project focuses on detecting and recognizing faces using OpenCV. The model is built with Keras, incorporating Conv2D, MaxPool2D, Flatten, and Dense layers to achieve accurate face recognition.
 
 ## Image Data Generator
-Utilize the Image Data Generator with various hyperparameters to augment and preprocess the image data for model training.
+Augment and preprocess image data using an Image Data Generator with various hyperparameters for training the face recognition model.
 
 ## Model Architecture
-Build the model architecture using Keras with Conv2D, MaxPool2D, Flatten, and Dense layers to recognize images.
+Build the model architecture using Keras with Conv2D, MaxPool2D, Flatten, and Dense layers for effective face recognition.
 
-## Training
-Train the model using the prepared image data to achieve accurate image recognition.
+## Face Detection
+Implement face detection techniques using OpenCV to identify faces in images or video streams.
+
+## Face Recognition
+Utilize the trained model for face recognition tasks, allowing the system to recognize faces accurately.
 
 ## Skills
 The skills demonstrated in this project include:
@@ -29,9 +33,13 @@ The skills demonstrated in this project include:
 2. Python (Programming Language)
 3. Deep Learning
 4. Keras
-5.Computer Vision (CV)
+5. OpenCV
 ## Contributing
 If you have suggestions, improvements, or find any issues, please feel free to contribute by opening an issue or creating a pull request.
 
 ## License
 This project is licensed under the MIT License.
+
+
+
+
